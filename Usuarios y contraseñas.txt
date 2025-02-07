@@ -1,0 +1,6 @@
+Usuario
+Usuario: 12345@gmail.com
+Contraseña: Ejemplo1@
+Admin
+Usuario:2468@gmail.com
+Contraseña: Ejemplo2@
